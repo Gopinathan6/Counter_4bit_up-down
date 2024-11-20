@@ -1,5 +1,5 @@
 # Name : GOPINATHAN P
-# Reg : 212222060068
+# Reg no : 212222060068
 # Exp-2 : Counter_4bit_up-down
 
 ## Aim:
